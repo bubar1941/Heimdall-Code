@@ -188,3 +188,6 @@ This repository serves as the official landing page for Heimdall. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heimdall today!**
+
+---
+**Last updated:** 2026-11-06 14:49:55 UTC
