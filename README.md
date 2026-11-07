@@ -190,4 +190,4 @@ This repository serves as the official landing page for Heimdall. The software i
 **Get the most recent version of Heimdall today!**
 
 ---
-**Last updated:** 2026-11-06 20:43:32 UTC
+**Last updated:** 2026-11-07 00:40:03 UTC
